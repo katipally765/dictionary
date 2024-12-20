@@ -1,3 +1,3 @@
 # dictionary
 hello everyone 
-this my projected
+this my projects
